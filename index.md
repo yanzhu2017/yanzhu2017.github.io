@@ -4,7 +4,9 @@ title: Yan Zhu
 permalink: /
 ---
 
-# Yan Zhu
+# Yan Zhu 朱艳
+
+[简历](data/cv20160430.pdf)
 
 ## Contact
 
