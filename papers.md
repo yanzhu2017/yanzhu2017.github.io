@@ -14,6 +14,6 @@ permalink: /papers
 
 Y. Zhu, Ei. Bannai, Et. Bannai, K.-T. Kim and W.-H. Yu. [More on spherical designs of harmonic index $$t$$](http://arxiv.org/abs/1507.05373). arXiv:1507.05373.
 
-Ei. Bannai, Et. Bannai, H. Tanaka, Y. Zhu. [Design theory from the viewpoint of algebraic combinatorics]. (submitted)
+Ei. Bannai, Et. Bannai, H. Tanaka, Y. Zhu. Design theory from the viewpoint of algebraic combinatorics. (submitted)
 
 
