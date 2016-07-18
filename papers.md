@@ -9,8 +9,11 @@ permalink: /papers
  Y. Zhu, Ei. Bannai, Et. Bannai. [Tight relative $$2$$-designs on two shells in Johnson association schemes](http://www.sciencedirect.com/science/article/pii/S0012365X15003787). Discrete Mathematics, 339 (2): 957–973, 2016.
 
 
- E. Bannai, Et. Bannai, Y. Zhu. [Relative $$t$$-designs in binary Hamming association scheme $$H(n,2)$$](http://link.springer.com/article/10.1007/s10623-016-0200-0). To appear in Designs, Codes and Cryptography. DOI: 10.1007/s10623-016-0200-0.
+ Ei. Bannai, Et. Bannai, Y. Zhu. [Relative $$t$$-designs in binary Hamming association scheme $$H(n,2)$$](http://link.springer.com/article/10.1007/s10623-016-0200-0). To appear in Designs, Codes and Cryptography. DOI: 10.1007/s10623-016-0200-0.
 
 
 Y. Zhu, Ei. Bannai, Et. Bannai, K.-T. Kim and W.-H. Yu. [More on spherical designs of harmonic index $$t$$](http://arxiv.org/abs/1507.05373). arXiv:1507.05373.
+
+Ei. Bannai, Et. Bannai, H. Tanaka, Y. Zhu. [Design theory from the viewpoint of algebraic combinatorics]. (submitted)
+
 
