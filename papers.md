@@ -4,7 +4,7 @@ title: Papers
 permalink: /papers
 ---
 
- Ei. Bannai, Et. Bannai, Y. Zhu. [A survey on tight Euclidean $$t$$-designs and tight relative $$t$$-designs in certain association schemes](http://link.springer.com/article/10.1134%2FS0081543815010149). 
+ Ei. Bannai, Et. Bannai, Y. Zhu. [A survey on tight Euclidean $$t$$-designs and tight relative $$t$$-designs in certain association schemes](http://link.springer.com/article/10.1134%2FS0081543815010149). \\
 Proceedings of the Steklov Institute of Mathematics, 288 (1):189–202, 2015.
 
  Y. Zhu, Ei. Bannai, Et. Bannai.[Tight relative $$2$$-designs on two shells in Johnson association schemes](http://www.sciencedirect.com/science/article/pii/S0012365X15003787).
