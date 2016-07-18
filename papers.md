@@ -5,7 +5,6 @@ permalink: /papers
 ---
 
  Ei. Bannai, Et. Bannai, Y. Zhu. [A survey on tight Euclidean $$t$$-designs and tight relative $$t$$-designs in certain association schemes](http://link.springer.com/article/10.1134%2FS0081543815010149). 
-
 Proceedings of the Steklov Institute of Mathematics, 288 (1):189–202, 2015.
 
  Y. Zhu, Ei. Bannai, Et. Bannai.[Tight relative $$2$$-designs on two shells in Johnson association schemes](http://www.sciencedirect.com/science/article/pii/S0012365X15003787).
@@ -16,7 +15,6 @@ Proceedings of the Steklov Institute of Mathematics, 288 (1):189–202, 2015.
  E. Bannai, Et. Bannai, Y. Zhu.[Relative $$t$$-designs in binary Hamming association scheme $$H(n,2)$$](http://link.springer.com/article/10.1007/s10623-016-0200-0). To appear in Designs, Codes and Cryptography. DOI: 10.1007/s10623-016-0200-0.
 
 
-Y. Zhu, Eiichi. Bannai, Etsuko Bannai, Kyoung-Tark Kim and Wei-Hsuan Yu. [More on spherical designs of harmonic index $$t$$](http://arxiv.org/abs/1507.05373). 
-
+Y. Zhu, Ei. Bannai, Et. Bannai, K.-T. Kim and W.-H. Yu. [More on spherical designs of harmonic index $$t$$](http://arxiv.org/abs/1507.05373). 
 arXiv:1507.05373.
 
