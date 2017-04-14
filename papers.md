@@ -5,7 +5,7 @@ permalink: /papers
 ---
 
 Y. Zhu, E. Bannai, Et. Bannai, K.-T. Kim, W.-H. Yu.
-[On spherical designs of some harmonic indices].
+[On spherical designs of some harmonic indices](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v24i2p14/pdf).
 Electronic Journal of Combinatorics, 24(2) (2017), #P2.14.
 
  
