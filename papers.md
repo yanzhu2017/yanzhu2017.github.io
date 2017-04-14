@@ -6,17 +6,12 @@ permalink: /papers
 
 E. Bannai, Y. Zhu. Tight $$t$$-designs on one shell in Johnson association schemes.
 
- Y. Zhu, E. Bannai, Et. Bannai, T. Ikuta, K.-T. Kim. 
- Harmonic index designs in binary Hamming association schemes. 
+ Y. Zhu, E. Bannai, Et. Bannai, T. Ikuta, K.-T. Kim. Harmonic index designs in binary Hamming association schemes. 
 
-Y. Zhu, E. Bannai, Et. Bannai, K.-T. Kim, W.-H. Yu.
-[On spherical designs of some harmonic indices](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v24i2p14/pdf).
-[Electronic Journal of Combinatorics](http://www.combinatorics.org/ojs/index.php/eljc/index), 24(2) (2017), #P2.14.
+Y. Zhu, E. Bannai, Et. Bannai, K.-T. Kim, W.-H. Yu. [On spherical designs of some harmonic indices](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v24i2p14/pdf).[Electronic Journal of Combinatorics](http://www.combinatorics.org/ojs/index.php/eljc/index), 24(2) (2017), #P2.14.
 
  
-E. Bannai, Et. Bannai, [H. Tanaka](http://www.math.is.tohoku.ac.jp/%7Ehtanaka/), Y. Zhu. 
-[Design theory from the viewpoint of algebraic combinatorics](http://link.springer.com/article/10.1007/s00373-016-1739-2).  
-[Graphs and Combinatorics](https://link.springer.com/journal/373), 33(1) (2017) 1–41.
+E. Bannai, Et. Bannai, [H. Tanaka](http://www.math.is.tohoku.ac.jp/%7Ehtanaka/), Y. Zhu. [Design theory from the viewpoint of algebraic combinatorics](http://link.springer.com/article/10.1007/s00373-016-1739-2). [Graphs and Combinatorics](https://link.springer.com/journal/373), 33(1) (2017) 1–41.
 
  E. Bannai, Et. Bannai, Y. Zhu. [Relative $$t$$-designs in binary Hamming association scheme $$H(n,2)$$](http://link.springer.com/article/10.1007/s10623-016-0200-0). To appear in [Designs, Codes and Cryptography](https://link.springer.com/journal/10623). DOI: 10.1007/s10623-016-0200-0.
 
