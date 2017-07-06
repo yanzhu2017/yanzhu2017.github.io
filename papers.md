@@ -8,10 +8,10 @@ permalink: /papers
 * [Harmonic index designs in binary Hamming association schemes](https://link.springer.com/article/10.1007/s00373-017-1784-5), joint work with Eiichi Bannai, Etsuko Bannai, Takuya Ikuta, Kyoung-Tark Kim, [Graphs and Combinatorics](https://link.springer.com/journal/373). DOI 10.1007/s00373-017-1784-5.
  
 
-* [On spherical designs of some harmonic indices](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v24i2p14/pdf),  joint work with Eiichi Bannai, Etsuko Bannai, Kyoung-Tark Kim, [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/) [Electronic Journal of Combinatorics](http://www.combinatorics.org/ojs/index.php/eljc/index), 24(2) (2017), #P2.14.
+* [On spherical designs of some harmonic indices](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v24i2p14/pdf),  joint work with Eiichi Bannai, Etsuko Bannai, Kyoung-Tark Kim, [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/), [Electronic Journal of Combinatorics](http://www.combinatorics.org/ojs/index.php/eljc/index), 24(2) (2017), #P2.14.
 
  
-* [Design theory from the viewpoint of algebraic combinatorics](http://link.springer.com/article/10.1007/s00373-016-1739-2), joint work with Eiichi Bannai, Etsuko Bannai, [Hajime Tanaka](http://www.math.is.tohoku.ac.jp/%7Ehtanaka/), Y. Zhu.  [Graphs and Combinatorics](https://link.springer.com/journal/373), 33(1) (2017) 1–41.
+* [Design theory from the viewpoint of algebraic combinatorics](http://link.springer.com/article/10.1007/s00373-016-1739-2), joint work with Eiichi Bannai, Etsuko Bannai, [Hajime Tanaka](http://www.math.is.tohoku.ac.jp/%7Ehtanaka/), [Graphs and Combinatorics](https://link.springer.com/journal/373), 33(1) (2017) 1–41.
 
 * [Relative $$t$$-designs in binary Hamming association scheme $$H(n,2)$$](http://link.springer.com/article/10.1007/s10623-016-0200-0), joint work with Eiichi Bannai, Etsuko Bannai, [Designs, Codes and Cryptography](https://link.springer.com/journal/10623), 84 (2017), no. 1, 23–53.
 
