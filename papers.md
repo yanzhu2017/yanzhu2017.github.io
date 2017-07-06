@@ -3,7 +3,7 @@ layout: default
 title: Papers
 permalink: /papers
 ---
-
+## Publications
  Y. Zhu, E. Bannai, Et. Bannai, T. Ikuta, K. Kim. [Harmonic index designs in binary Hamming association schemes](https://link.springer.com/article/10.1007/s00373-017-1784-5). [Graphs and Combinatorics](https://link.springer.com/journal/373). DOI 10.1007/s00373-017-1784-5.
  
 
