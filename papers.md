@@ -15,9 +15,9 @@ permalink: /papers
 
 [Relative $$t$$-designs in binary Hamming association scheme $$H(n,2)$$](http://link.springer.com/article/10.1007/s10623-016-0200-0), joint work with Eiichi Bannai, Etsuko Bannai, [Designs, Codes and Cryptography](https://link.springer.com/journal/10623), 84 (2017), no. 1, 23–53.
 
- Y. Zhu, E. Bannai, Et. Bannai. [Tight relative $$2$$-designs on two shells in Johnson association schemes](http://www.sciencedirect.com/science/article/pii/S0012365X15003787). [Discrete Mathematics](https://www.journals.elsevier.com/discrete-mathematics/), 339(2) (2016) 957–973.
+[Tight relative $$2$$-designs on two shells in Johnson association schemes](http://www.sciencedirect.com/science/article/pii/S0012365X15003787),joint work with Eiichi Bannai, Etsuko Bannai, [Discrete Mathematics](https://www.journals.elsevier.com/discrete-mathematics/), 339(2) (2016) 957–973.
 
-E. Bannai, Et. Bannai, Y. Zhu. [A survey on tight Euclidean $$t$$-designs and tight relative $$t$$-designs in certain association schemes](http://link.springer.com/article/10.1134%2FS0081543815010149). [Proceedings of the Steklov Institute of Mathematics](https://link.springer.com/journal/11501), 288(1) (2015) 189–202.
+[A survey on tight Euclidean $$t$$-designs and tight relative $$t$$-designs in certain association schemes](http://link.springer.com/article/10.1134%2FS0081543815010149), joint work with Eiichi Bannai, Etsuko Bannai, [Proceedings of the Steklov Institute of Mathematics](https://link.springer.com/journal/11501), 288(1) (2015) 189–202.
 
 ## Submitted
 Half of an antipodal spherical design, joint work with Eiichi Bannai, [Da Zhao](http://zhaoda.org/), Lin Zhu, [Yinfeng Zhu](http://zhuyinfeng.org/).
