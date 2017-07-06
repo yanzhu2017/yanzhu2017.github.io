@@ -4,7 +4,7 @@ title: Talks
 permalink: /talks
 ---
 
-* May 24, 2017 - $$t$$-designs in one shell of Johnson association schemes - [The Ninth Shanghai Conference on Combinatorics](http://www.math.sjtu.edu.cn/conference/9shcc/), Shanghai Jiao Tong University. 
+* May 24, 2017 -- $$t$$-designs in one shell of Johnson association schemes -- [The Ninth Shanghai Conference on Combinatorics](http://www.math.sjtu.edu.cn/conference/9shcc/), Shanghai Jiao Tong University. 
 
 * Nov.9--11, 2016. Lecture Series on Design Theory from the viewpoint of Algebraic Combinatorics, Hebei Normal University.
 
