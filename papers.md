@@ -20,13 +20,13 @@ E. Bannai, Et. Bannai, [H. Tanaka](http://www.math.is.tohoku.ac.jp/%7Ehtanaka/),
 E. Bannai, Et. Bannai, Y. Zhu. [A survey on tight Euclidean $$t$$-designs and tight relative $$t$$-designs in certain association schemes](http://link.springer.com/article/10.1134%2FS0081543815010149). [Proceedings of the Steklov Institute of Mathematics](https://link.springer.com/journal/11501), 288(1) (2015) 189–202.
 
 ## Submitted
-E. Bannai, D. Zhao, L. Zhu, Y. Zhu, Y. Zhu. Half of an antipodal spherical design.
+E. Bannai, [D. Zhao](http://zhaoda.org/), L. Zhu, Y. Zhu, [Y. Zhu](http://zhuyinfeng.org/). Half of an antipodal spherical design.
 
 E. Bannai, Y. Zhu. Tight $$t$$-designs on one shell in Johnson association schemes.
 
 ## In preparation
 
-E. Bannai, Et. Bannai, Z. Xiang, W. Yu, Yan Zhu. Classification problem of certain spherical embeddings of strongly regular graphs.
+E. Bannai, Et. Bannai, [Z. Xiang](http://ziqing.org/), W. Yu, Y. Zhu. Classification problem of certain spherical embeddings of strongly regular graphs.
 
 Y. Zhu, Relative $$t$$-designs in Johnson association schemes for P-structure.
 
