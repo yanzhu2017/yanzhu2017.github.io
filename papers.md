@@ -8,7 +8,7 @@ permalink: /papers
  [Harmonic index designs in binary Hamming association schemes](https://link.springer.com/article/10.1007/s00373-017-1784-5), joint work with Eiichi Bannai, Etsuko Bannai, Takuya Ikuta, Kyoung-Tark Kim, [Graphs and Combinatorics](https://link.springer.com/journal/373). DOI 10.1007/s00373-017-1784-5.
  
 
-[On spherical designs of some harmonic indices](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v24i2p14/pdf),  joint work with Eiichi Bannai, Etsuko Bannai, Kyoung-Tark Kim, Wei-Hsuan Yu [Electronic Journal of Combinatorics](http://www.combinatorics.org/ojs/index.php/eljc/index), 24(2) (2017), #P2.14.
+[On spherical designs of some harmonic indices](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v24i2p14/pdf),  joint work with Eiichi Bannai, Etsuko Bannai, Kyoung-Tark Kim, [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/) [Electronic Journal of Combinatorics](http://www.combinatorics.org/ojs/index.php/eljc/index), 24(2) (2017), #P2.14.
 
  
 [Design theory from the viewpoint of algebraic combinatorics](http://link.springer.com/article/10.1007/s00373-016-1739-2), joint work with Eiichi Bannai, Etsuko Bannai, [Hajime Tanaka](http://www.math.is.tohoku.ac.jp/%7Ehtanaka/), Y. Zhu.  [Graphs and Combinatorics](https://link.springer.com/journal/373), 33(1) (2017) 1–41.
@@ -26,7 +26,7 @@ Tight $$t$$-designs on one shell in Johnson association schemes, joint work with
 
 ## In preparation
 
-Classification problem of certain spherical embeddings of strongly regular graphs, joint work with Eiichi Bannai, Etsuko Bannai, [Ziqing Xiang](http://ziqing.org/), Wei-Hsuan Yu.
+Classification problem of certain spherical embeddings of strongly regular graphs, joint work with Eiichi Bannai, Etsuko Bannai, [Ziqing Xiang](http://ziqing.org/), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/).
 
 Relative $$t$$-designs in Johnson association schemes for P-structure.
 
