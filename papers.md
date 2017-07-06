@@ -3,6 +3,7 @@ layout: default
 title: Papers
 permalink: /papers
 ---
+## In preparation
 
 E. Bannai, Y. Zhu. Tight $$t$$-designs on one shell in Johnson association schemes.
 
