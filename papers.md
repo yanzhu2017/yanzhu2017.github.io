@@ -7,7 +7,7 @@ permalink: /papers
  Y. Zhu, E. Bannai, Et. Bannai, T. Ikuta, K. Kim. [Harmonic index designs in binary Hamming association schemes](https://link.springer.com/article/10.1007/s00373-017-1784-5). [Graphs and Combinatorics](https://link.springer.com/journal/373). DOI 10.1007/s00373-017-1784-5.
  
 
-Y. Zhu, E. Bannai, Et. Bannai, K. Kim, W. Yu. [On spherical designs of some harmonic indices](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v24i2p14/pdf). [Electronic Journal of Combinatorics](http://www.combinatorics.org/ojs/index.php/eljc/index), 24(2) (2017), #P2.14.
+Y. Zhu, E. Bannai, Et. Bannai, K. Kim, W. Yu. [On spherical designs of some harmonic indices](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v24i2p14/pdf).  [Electronic Journal of Combinatorics](http://www.combinatorics.org/ojs/index.php/eljc/index), 24(2) (2017), #P2.14.
 
  
 E. Bannai, Et. Bannai, [H. Tanaka](http://www.math.is.tohoku.ac.jp/%7Ehtanaka/), Y. Zhu. [Design theory from the viewpoint of algebraic combinatorics](http://link.springer.com/article/10.1007/s00373-016-1739-2). [Graphs and Combinatorics](https://link.springer.com/journal/373), 33(1) (2017) 1–41.
