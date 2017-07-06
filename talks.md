@@ -4,4 +4,5 @@ title: Talks
 permalink: /talks
 ---
 
-My talks will be listed here.
+Oct. 30, 2014. Tight relative 2-designs on two shells in Johnson schemes. Erwin Schrödinger International Institute.
+
