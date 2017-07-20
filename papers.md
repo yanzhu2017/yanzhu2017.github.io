@@ -6,8 +6,7 @@ permalink: /papers
 ## Publications
 
 * [Harmonic index designs in binary Hamming association schemes](https://link.springer.com/article/10.1007/s00373-017-1784-5), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Takuya Ikuta](http://math-combinatorics.jp/), [Kyoung-Tark Kim](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=187771),
-
-     Graphs and Combinatorics. DOI 10.1007/s00373-017-1784-5.
+      Graphs and Combinatorics. DOI 10.1007/s00373-017-1784-5.
  
 
 * [On spherical designs of some harmonic indices](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v24i2p14/pdf),  joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Kyoung-Tark Kim](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=187771), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/), Electronic Journal of Combinatorics, 24(2) (2017), #P2.14.
