@@ -5,7 +5,7 @@ permalink: /papers
 ---
 ## Publications
 
-* [Harmonic index designs in binary Hamming association schemes](https://link.springer.com/article/10.1007/s00373-017-1784-5), joint work with Eiichi Bannai, Etsuko Bannai, Takuya Ikuta, Kyoung-Tark Kim, [Graphs and Combinatorics](https://link.springer.com/journal/373). DOI 10.1007/s00373-017-1784-5.
+* [Harmonic index designs in binary Hamming association schemes](https://link.springer.com/article/10.1007/s00373-017-1784-5), joint work with Eiichi Bannai, Etsuko Bannai, [Takuya Ikuta](http://math-combinatorics.jp/), Kyoung-Tark Kim, [Graphs and Combinatorics](https://link.springer.com/journal/373). DOI 10.1007/s00373-017-1784-5.
  
 
 * [On spherical designs of some harmonic indices](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v24i2p14/pdf),  joint work with Eiichi Bannai, Etsuko Bannai, Kyoung-Tark Kim, [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/), [Electronic Journal of Combinatorics](http://www.combinatorics.org/ojs/index.php/eljc/index), 24(2) (2017), #P2.14.
