@@ -9,10 +9,12 @@ permalink: /papers
 Graphs and Combinatorics. DOI 10.1007/s00373-017-1784-5.
  
 
-* [On spherical designs of some harmonic indices](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v24i2p14/pdf),  joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Kyoung-Tark Kim](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=187771), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/),\\ Electronic Journal of Combinatorics, 24(2) (2017), #P2.14.
+* [On spherical designs of some harmonic indices](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v24i2p14/pdf),  joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Kyoung-Tark Kim](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=187771), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/),\\ 
+Electronic Journal of Combinatorics, 24(2) (2017), #P2.14.
 
  
-* [Design theory from the viewpoint of algebraic combinatorics](http://link.springer.com/article/10.1007/s00373-016-1739-2), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Hajime Tanaka](http://www.math.is.tohoku.ac.jp/%7Ehtanaka/),\\ Graphs and Combinatorics, 33(1) (2017) 1–41.
+* [Design theory from the viewpoint of algebraic combinatorics](http://link.springer.com/article/10.1007/s00373-016-1739-2), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Hajime Tanaka](http://www.math.is.tohoku.ac.jp/%7Ehtanaka/),\\
+Graphs and Combinatorics, 33(1) (2017) 1–41.
 
 * [Relative $$t$$-designs in binary Hamming association scheme $$H(n,2)$$](http://link.springer.com/article/10.1007/s10623-016-0200-0), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), \\
 Designs, Codes and Cryptography, 84 (2017), no. 1, 23–53.
