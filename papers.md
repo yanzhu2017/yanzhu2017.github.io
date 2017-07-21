@@ -9,7 +9,7 @@ permalink: /papers
 Graphs and Combinatorics. DOI 10.1007/s00373-017-1784-5.
  
 
-* [On spherical designs of some harmonic indices](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v24i2p14/pdf),  joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Kyoung-Tark Kim](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=187771), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/),\\ 
+* [On spherical designs of some harmonic indices](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v24i2p14/pdf),  joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Kyoung-Tark Kim](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=187771), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/),\\
 Electronic Journal of Combinatorics, 24(2) (2017), #P2.14.
 
  
