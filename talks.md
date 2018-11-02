@@ -4,7 +4,7 @@ title: Talks
 permalink: /talks
 ---
 
-* Nov. 7, 2018. Complex spherical $$s$$-distance $$T$$-designs, [2018 International Workshop on Quantum Information, Quantum Computing and Quantum Control](http://math.shu.edu.cn/IWQIQC2018/), Shanghai University. 
+* Nov. 7, 2018. Complex spherical $$s$$-distance $$T$$-designs, [2018 International Workshop on Quantum Information, Quantum Computing and Quantum Control](http://yanzhu.org/IWQIQC2018/), Shanghai University. 
 
 * May 24, 2017. $$t$$-designs in one shell of Johnson association schemes, [The Ninth Shanghai Conference on Combinatorics](http://www.math.sjtu.edu.cn/conference/9shcc/), Shanghai Jiao Tong University. 
 
