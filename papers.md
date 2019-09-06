@@ -6,7 +6,7 @@ permalink: /papers
 ## Publications
 
 * [Tight $$t$$-designs on one shell in Johnson association schemes](https://www.sciencedirect.com/science/article/pii/S0195669818300374), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296),\\
-European Journal of Combinatorics. DOI 10.1016/j.ejc.2018.02.024.
+	European Journal of Combinatorics. 80 (2019), 23--36.
 
 
 * [Half of an antipodal spherical design](https://link.springer.com/article/10.1007/s00013-017-1141-1), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Da Zhao](http://zhaoda.org/), Lin Zhu, [Yinfeng Zhu](http://zhuyinfeng.org/),\\
@@ -34,9 +34,9 @@ Proceedings of the Steklov Institute of Mathematics. 288(1) (2015) 189–202.
 
 ## Submitted 
 
-* Classification problem of certain spherical embeddings of strongly regular graphs, joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Ziqing Xiang](http://ziqing.org/), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/).
+* Classification of feasible parameters by solving Diophantine equations, joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Ziqing Xiang](http://ziqing.org/), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/).
 
-## In preparation
+* On the explicit constructions of certain unitary $$t$$-designs, joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Mikio Nakahara],  [Da Zhao](http://zhaoda.org/).
 
-* Relative $$t$$-designs in Johnson association schemes for P-structure.
+* Relative t-designs in Johnson association schemes for P-structure, joint work with [Naoki Watamura].
 
