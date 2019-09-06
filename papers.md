@@ -36,7 +36,7 @@ Proceedings of the Steklov Institute of Mathematics. 288(1) (2015) 189–202.
 
 * Classification of feasible parameters by solving Diophantine equations, joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Ziqing Xiang](http://ziqing.org/), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/).
 
-* On the explicit constructions of certain unitary $$t$$-designs, joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Mikio Nakahara],  [Da Zhao](http://zhaoda.org/).
+* On the explicit constructions of certain unitary $$t$$-designs, joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), Mikio Nakahara,  [Da Zhao](http://zhaoda.org/).
 
-* Relative t-designs in Johnson association schemes for P-structure, joint work with [Naoki Watamura].
+* Relative t-designs in Johnson association schemes for P-structure, joint work with Naoki Watamura.
 
