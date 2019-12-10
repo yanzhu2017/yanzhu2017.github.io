@@ -5,8 +5,10 @@ permalink: /
 ---
 
 # 朱 艳 Yan Zhu
-* 2017.10–present: postdoctoral researcher at Shanghai University,\\
-Host Professor: Mikio Nakahara.
+
+* 2019.10: Lecturer at University of Shanghai for Science and Technology.\\
+
+* 2017.10–2019.10: Postdoctoral researcher at Shanghai University.\\
 
 * Ph.D. in Mathematics, Shanghai Jiao Tong University, June 2017\\
 Thesis: "Relative $$t$$-designs in some association schemes"\\
@@ -16,5 +18,6 @@ Advisor: Eiichi Bannai.
 
 ## Contact
 
-* Email: <zhuyan@sjtu.edu.cn>
+* Email: <zhuyan@sjtu.edu.cn> (expired)
 * Email: <zhu_yan@shu.edu.cn>
+* Email: <zhuyan@usst.edu.cn>
