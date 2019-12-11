@@ -5,6 +5,10 @@ permalink: /papers
 ---
 ## Publications
 
+* [On the explicit constructions of certain unitary $$t$$-designs](https://iopscience.iop.org/article/10.1088/1751-8121/ab5009), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), Mikio Nakahara,  [Da Zhao](http://zhaoda.org/).\\
+Journal of Physics A Mathematical and Theoretical 52 (2019) 495301 (17pp).
+
+
 * [Tight $$t$$-designs on one shell in Johnson association schemes](https://www.sciencedirect.com/science/article/pii/S0195669818300374), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296),\\
 	European Journal of Combinatorics. 80 (2019), 23--36.
 
@@ -35,8 +39,6 @@ Proceedings of the Steklov Institute of Mathematics. 288(1) (2015) 189–202.
 ## Submitted 
 
 * Classification of feasible parameters by solving Diophantine equations, joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Ziqing Xiang](http://ziqing.org/), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/).
-
-* On the explicit constructions of certain unitary $$t$$-designs, joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), Mikio Nakahara,  [Da Zhao](http://zhaoda.org/).
 
 * Relative t-designs in Johnson association schemes for P-structure, joint work with Naoki Watamura.
 
