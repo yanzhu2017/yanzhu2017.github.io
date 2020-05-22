@@ -4,7 +4,7 @@ title: Papers
 permalink: /papers
 ---
 ## Publications
-* Relative t-designs in Johnson association schemes for P-structure, joint work with Naoki Watamura.\\
+* Relative $$t$$-designs in Johnson association schemes for P-structure, joint work with Naoki Watamura.\\
 Accepted and to appear in Designs, Codes and Cryptography.
 
 
