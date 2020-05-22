@@ -4,6 +4,9 @@ title: Papers
 permalink: /papers
 ---
 ## Publications
+* Relative t-designs in Johnson association schemes for P-structure, joint work with Naoki Watamura.\\
+Accepted and to appear in Designs, Codes and Cryptography.
+
 
 * [On the explicit constructions of certain unitary $$t$$-designs](https://iopscience.iop.org/article/10.1088/1751-8121/ab5009), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), Mikio Nakahara,  [Da Zhao](http://zhaoda.org/).\\
 Journal of Physics A Mathematical and Theoretical 52 (2019) 495301 (17pp).
@@ -40,5 +43,4 @@ Proceedings of the Steklov Institute of Mathematics. 288(1) (2015) 189–202.
 
 * Classification of feasible parameters by solving Diophantine equations, joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Ziqing Xiang](http://ziqing.org/), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/).
 
-* Relative t-designs in Johnson association schemes for P-structure, joint work with Naoki Watamura.
-
+* Tight Relative $$t$$-designs on two shells in hypercubes, and Hahn and Hermite polynomials, joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Hajime Tanaka](http://www.math.is.tohoku.ac.jp/%7Ehtanaka/).
