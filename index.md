@@ -18,6 +18,7 @@ Advisor: Eiichi Bannai.
 
 ## Contact
 
-* Email: <zhu_yan@shu.edu.cn>, <zhuyan@sjtu.edu.cn> (expired)
 * Email: <zhuyan@usst.edu.cn>
+* Email: <zhu_yan@shu.edu.cn>, <zhuyan@sjtu.edu.cn> (expired)
+
 
