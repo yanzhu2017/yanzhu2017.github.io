@@ -4,6 +4,10 @@ title: Papers
 permalink: /papers
 ---
 ## Publications
+
+* Classification of spherical 2-distance {4,2,1}-designs by solving Diophantine equations, joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Ziqing Xiang](http://ziqing.org/), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/).\\
+Accepted and to appear in Taiwanese Journal of Mathematics
+
 * Relative $$t$$-designs in Johnson association schemes for P-structure, joint work with Naoki Watamura.\\
 Accepted and to appear in Designs, Codes and Cryptography.
 
@@ -41,6 +45,8 @@ Proceedings of the Steklov Institute of Mathematics. 288(1) (2015) 189–202.
 
 ## Submitted 
 
-* Classification of feasible parameters by solving Diophantine equations, joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Ziqing Xiang](http://ziqing.org/), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/).
-
 * Tight Relative $$t$$-designs on two shells in hypercubes, and Hahn and Hermite polynomials, joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Hajime Tanaka](http://www.math.is.tohoku.ac.jp/%7Ehtanaka/).
+
+## Papers in preparation
+
+* Relative $$t$$-designs in non-binary Hamming association schemes.
