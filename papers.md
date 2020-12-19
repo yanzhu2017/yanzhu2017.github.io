@@ -5,12 +5,11 @@ permalink: /papers
 ---
 ## Publications
 
-* Classification of spherical 2-distance {4,2,1}-designs by solving Diophantine equations, joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Ziqing Xiang](http://ziqing.org/), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/).\\
+* [Classification of spherical 2-distance {4,2,1}-designs by solving Diophantine equations](https://projecteuclid.org/euclid.twjm/1593050477), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Ziqing Xiang](http://ziqing.org/), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/).\\
 Accepted and to appear in Taiwanese Journal of Mathematics
 
-* Relative $$t$$-designs in Johnson association schemes for P-structure, joint work with Naoki Watamura.\\
-Accepted and to appear in Designs, Codes and Cryptography.
-
+* [Relative $$t$$-designs in Johnson association schemes for P-structure](https://link.springer.com/article/10.1007/s10623-020-00766-3), joint work with Naoki Watamura.\\
+Designs, Codes and Cryptography, 88, 2101–2118 (2020).
 
 * [On the explicit constructions of certain unitary $$t$$-designs](https://iopscience.iop.org/article/10.1088/1751-8121/ab5009), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), Mikio Nakahara,  [Da Zhao](http://zhaoda.org/).\\
 Journal of Physics A Mathematical and Theoretical 52 (2019) 495301 (17pp).
@@ -47,6 +46,7 @@ Proceedings of the Steklov Institute of Mathematics. 288(1) (2015) 189–202.
 
 * Tight Relative $$t$$-designs on two shells in hypercubes, and Hahn and Hermite polynomials, joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Hajime Tanaka](http://www.math.is.tohoku.ac.jp/%7Ehtanaka/).
 
-## Papers in preparation
-
 * Relative $$t$$-designs in non-binary Hamming association schemes.
+
+
+
