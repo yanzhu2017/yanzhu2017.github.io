@@ -9,7 +9,7 @@ permalink: /papers
 To appear in ARS Mathematica Contemporanea.
 
 * [Classification of spherical 2-distance {4,2,1}-designs by solving Diophantine equations](https://projecteuclid.org/euclid.twjm/1593050477), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Ziqing Xiang](http://ziqing.org/), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/).\\
-Accepted and to appear in Taiwanese Journal of Mathematics 25(1), 1-22, 2021.
+Taiwanese Journal of Mathematics 25(1), 1-22, 2021.
 
 * [Relative $$t$$-designs in Johnson association schemes for P-structure](https://link.springer.com/article/10.1007/s10623-020-00766-3), joint work with Naoki Watamura.\\
 Designs, Codes and Cryptography, 88, 2101–2118, 2020.
