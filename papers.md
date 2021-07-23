@@ -5,7 +5,7 @@ permalink: /papers
 ---
 ## Publications
 
-* Tight Relative $$t$$-designs on two shells in hypercubes, and Hahn and Hermite polynomials, joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Hajime Tanaka](http://www.math.is.tohoku.ac.jp/%7Ehtanaka/).\\
+* [Tight Relative $$t$$-designs on two shells in hypercubes, and Hahn and Hermite polynomials](https://amc-journal.eu/index.php/amc/article/view/2352), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Hajime Tanaka](http://www.math.is.tohoku.ac.jp/%7Ehtanaka/).\\
 To appear in ARS Mathematica Contemporanea.
 
 * [Classification of spherical 2-distance {4,2,1}-designs by solving Diophantine equations](https://projecteuclid.org/euclid.twjm/1593050477), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Ziqing Xiang](http://ziqing.org/), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/).\\
