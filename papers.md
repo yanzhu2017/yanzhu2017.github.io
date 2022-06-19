@@ -5,6 +5,9 @@ permalink: /papers
 ---
 ## Publications
 
+* [Relative $$t$$-designs in non-binary Hamming association schemes](https://link.springer.com/article/10.1007/s00373-021-02389-4).\\
+  Graphs and Combinatorics 37, 1775–1791 (2021)
+
 * [Tight Relative $$t$$-designs on two shells in hypercubes, and Hahn and Hermite polynomials](https://amc-journal.eu/index.php/amc/article/view/2352), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Hajime Tanaka](http://www.math.is.tohoku.ac.jp/%7Ehtanaka/).\\
 To appear in ARS Mathematica Contemporanea.
 
@@ -45,9 +48,6 @@ Discrete Mathematics. 339(2), 957–973, 2016.
 * [A survey on tight Euclidean $$t$$-designs and tight relative $$t$$-designs in certain association schemes](http://link.springer.com/article/10.1134%2FS0081543815010149), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), \\
 Proceedings of the Steklov Institute of Mathematics. 288(1), 189–202, 2015.
 
-## Submitted 
-
-* Relative $$t$$-designs in non-binary Hamming association schemes.
 
 
 
