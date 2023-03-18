@@ -24,11 +24,11 @@ Taiwanese Journal of Mathematics 25(1), 1-22, 2021.
 Designs, Codes and Cryptography, 88, 2101–2118, 2020.
 
 * [On the explicit constructions of certain unitary $$t$$-designs](https://iopscience.iop.org/article/10.1088/1751-8121/ab5009), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), Mikio Nakahara,  [Da Zhao](http://zhaoda.org/).\\
-Journal of Physics A Mathematical and Theoretical 52, 495301 (17pp), 2019.
+Journal of Physics A: Mathematical and Theoretical 52, 495301 (17pp), 2019.
 
 
 * [Tight $$t$$-designs on one shell in Johnson association schemes](https://www.sciencedirect.com/science/article/pii/S0195669818300374), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296),\\
-	European Journal of Combinatorics. 80, 23--36, 2019.
+European Journal of Combinatorics. 80, 23--36, 2019.
 
 
 * [Half of an antipodal spherical design](https://link.springer.com/article/10.1007/s00013-017-1141-1), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Da Zhao](http://zhaoda.org/), Lin Zhu, [Yinfeng Zhu](http://zhuyinfeng.org/),\\
