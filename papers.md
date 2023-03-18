@@ -10,7 +10,7 @@ permalink: /papers
 
 * [Anticoherent spin-2 states and spherical designs](https://iopscience.iop.org/article/10.1088/1751-8121/ac971d), joint work with Meichao Wang.\\
   Journal of Physics A: Mathematical and Theoretical 55, 425304 (12pp), 2022.
-* 
+
 * [Relative $$t$$-designs in non-binary Hamming association schemes](https://link.springer.com/article/10.1007/s00373-021-02389-4).\\
   Graphs and Combinatorics 37, 1775–1791, 2021.
 
