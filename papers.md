@@ -5,11 +5,17 @@ permalink: /papers
 ---
 ## Publications
 
-* Relative $$t$$-designs in non-binary Hamming association schemes ([DOI](https://link.springer.com/article/10.1007/s00373-021-02389-4)).\\
-  Graphs and Combinatorics 37, 1775–1791 (2021)
+* [Euclidean designs obtained from spherical embedding of coherent configurations](https://onlinelibrary.wiley.com/doi/10.1002/jcd.21871), joint work with Aiguo Wang.\\
+ Journal of Combinatorial Designs 31(2), 143-161, 2023.
+
+* [Anticoherent spin-2 states and spherical designs](https://iopscience.iop.org/article/10.1088/1751-8121/ac971d), joint work with Meichao Wang.\\
+  Journal of Physics A: Mathematical and Theoretical 55, 425304 (12pp), 2022.
+* 
+* [Relative $$t$$-designs in non-binary Hamming association schemes](https://link.springer.com/article/10.1007/s00373-021-02389-4).\\
+  Graphs and Combinatorics 37, 1775–1791, 2021.
 
 * [Tight Relative $$t$$-designs on two shells in hypercubes, and Hahn and Hermite polynomials](https://amc-journal.eu/index.php/amc/article/view/2352), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Hajime Tanaka](http://www.math.is.tohoku.ac.jp/%7Ehtanaka/).\\
-To appear in ARS Mathematica Contemporanea.
+ARS Mathematica Contemporanea 22, #P2.01, 2022.
 
 * [Classification of spherical 2-distance {4,2,1}-designs by solving Diophantine equations](https://projecteuclid.org/euclid.twjm/1593050477), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Ziqing Xiang](http://ziqing.org/), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/).\\
 Taiwanese Journal of Mathematics 25(1), 1-22, 2021.
@@ -49,5 +55,8 @@ Discrete Mathematics. 339(2), 957–973, 2016.
 Proceedings of the Steklov Institute of Mathematics. 288(1), 189–202, 2015.
 
 
+---
+## Submitted
 
+* Optimal and extremal graphical designs on regular graphs associated with classical parameters.
 
