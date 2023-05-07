@@ -23,7 +23,7 @@ ARS Mathematica Contemporanea 22, #P2.01, 2022.
 * [Classification of spherical 2-distance {4,2,1}-designs by solving Diophantine equations](https://projecteuclid.org/euclid.twjm/1593050477), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Ziqing Xiang](http://ziqing.org/), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/).\\
 Taiwanese Journal of Mathematics 25(1), 1-22, 2021.
 
-* [Relative $$t$$-designs in Johnson association schemes for P-structure](https://link.springer.com/article/10.1007/s10623-020-00766-3), joint work with Naoki Watamura.\\
+* [Relative $$t$$-designs in Johnson association schemes for P-polynomial structure](https://link.springer.com/article/10.1007/s10623-020-00766-3), joint work with Naoki Watamura.\\
 Designs, Codes and Cryptography, 88, 2101–2118, 2020.
 
 * [On the explicit constructions of certain unitary $$t$$-designs](https://iopscience.iop.org/article/10.1088/1751-8121/ab5009), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), Mikio Nakahara,  [Da Zhao](http://zhaoda.org/).\\
