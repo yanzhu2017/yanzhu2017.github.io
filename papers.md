@@ -6,7 +6,7 @@ permalink: /papers
 ## Publications
 
 * [Optimal and extremal graphical designs on regular graphs associated with classical parameters](https://link.springer.com/article/10.1007/s10623-023-01231-7)\\
-Designs, Codes and Cryptography, 2023.
+Designs, Codes and Cryptography, 91, 2737–2754, 2023.
 
 * [Euclidean designs obtained from spherical embedding of coherent configurations](https://onlinelibrary.wiley.com/doi/10.1002/jcd.21871), joint work with Aiguo Wang.\\
  Journal of Combinatorial Designs 31(2), 143-161, 2023.
