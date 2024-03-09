@@ -5,7 +5,7 @@ permalink: /papers
 ---
 ## Publications
 
-* [PBIB-designs from certain subsets of distance-regular graph](https://link.springer.com/article/10.1007/s41980-024-00859-y), joint work with Nan Li.\\
+* [PBIB-designs from certain subsets of distance-regular graphs](https://link.springer.com/article/10.1007/s41980-024-00859-y), joint work with Nan Li.\\
 Bulletin of the Iranian Mathematical Society 50(15), 2024.
 
 * [Optimal and extremal graphical designs on regular graphs associated with classical parameters](https://link.springer.com/article/10.1007/s10623-023-01231-7).\\
