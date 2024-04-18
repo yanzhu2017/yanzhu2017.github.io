@@ -3,9 +3,6 @@ layout: default
 title: Teaching
 permalink: /teaching
 ---
-* Spring 2024.  
-      Machine Learning（机器学习), USST.\\
-   Textbook:  机器学习，周志华--清华大学出版社.
 
 * Spring 2024.   
       Advanced Mathematics（ 高等数学A2), USST.\\
