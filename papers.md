@@ -5,6 +5,9 @@ permalink: /papers
 ---
 ## Publications
 
+* [Bivariate Q-polynomial structures for the nonbinary Johnson scheme and the association scheme obtained from attenuated spaces](https://www.sciencedirect.com/science/article/pii/S002186932400262X),joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), Hirotake Kurihara, [Da Zhao](http://zhaoda.org/).\\
+Journal of Algebra 657, 421-455, 2024. 
+
 * [PBIB-designs from certain subsets of distance-regular graphs](https://link.springer.com/article/10.1007/s41980-024-00859-y), joint work with Nan Li.\\
 Bulletin of the Iranian Mathematical Society 50(15), 2024.
 
