@@ -64,4 +64,6 @@ Discrete Mathematics 339(2), 957–973, 2016.
 Proceedings of the Steklov Institute of Mathematics 288(1), 189–202, 2015.
 
 
-
+## Submitted
+* [Multivariate P- and/or Q-polynomial association schemes](https://arxiv.org/abs/2305.00707), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), Hirotake Kurihara, [Da Zhao](http://zhaoda.org/).\\
+arXiv:2305.00707 
