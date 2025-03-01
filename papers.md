@@ -5,6 +5,9 @@ permalink: /papers
 ---
 ## Publications
 
+* [Multivariate P- and/or Q-polynomial association schemes](https://www.sciencedirect.com/science/article/pii/S0097316525000202), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), Hirotake Kurihara, [Da Zhao](http://zhaoda.org/).\\
+ Journal of Combinatorial Theory, Series A 213 (2025), 106025.
+
 * [Bivariate Q-polynomial structures for the nonbinary Johnson scheme and the association scheme obtained from attenuated spaces](https://www.sciencedirect.com/science/article/pii/S002186932400262X), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), Hirotake Kurihara, [Da Zhao](http://zhaoda.org/).\\
 Journal of Algebra 657, 421-455, 2024. 
 
@@ -65,5 +68,4 @@ Proceedings of the Steklov Institute of Mathematics 288(1), 189–202, 2015.
 
 
 ## Submitted
-* [Multivariate P- and/or Q-polynomial association schemes](https://arxiv.org/abs/2305.00707), joint work with [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), Hirotake Kurihara, [Da Zhao](http://zhaoda.org/).\\
-arXiv:2305.00707 
+
