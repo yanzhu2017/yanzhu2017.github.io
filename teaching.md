@@ -4,43 +4,15 @@ title: Teaching
 permalink: /teaching
 ---
 
-* Spring 2024.   
-      Advanced Mathematics（ 高等数学A2), USST.\\
+* Undergraduate.   
+      Advanced Mathematics（ 高等数学 ), USST.\\
    Textbook:  高等数学--同济第八版.
+  
+ Combinatorics（ 组合数学 ), USST.\\
+   Textbook:  [ 组合数学，原书第5版中译本)](https://baike.baidu.com/item/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6%EF%BC%88%E5%8E%9F%E4%B9%A6%E7%AC%AC5%E7%89%88%EF%BC%89/24675086?fr=aladdin).
 
-* Fall 2023.   
+
+* Graduate.  
       Algebraic Combinatorics (代数组合), USST. \\
     Textbook:  [Algebraic Combinatorics](https://www.degruyter.com/document/doi/10.1515/9783110630251/html). 
     Eiichi Bannai, Etsuko Bannai, Ito Tatsuro and Rie Tanaka.
-
-* Fall 2023.   
-      Advanced Mathematics（ 高等数学A1, A2), USST.\\
-   Textbook:  高等数学--同济第八版.
-  
-* Spring 2023.   
-      Advanced Mathematics（ 高等数学A2 ), USST.\\
-   Textbook:  高等数学下册--同济第六版.
-   
-* Fall 2022.   
-      Algebraic Combinatorics (代数组合), USST. \\
-    Textbook:  [Algebraic Combinatorics](https://www.degruyter.com/document/doi/10.1515/9783110630251/html). 
-    Eiichi Bannai, Etsuko Bannai, Ito Tatsuro and Rie Tanaka.
-
-* Fall 2022.   
-      Advanced Mathematics（ 高等数学A1 ), USST.\\
-   Textbook:  高等数学上册--同济第六版.
-   
-* Spring 2022.   
-      Advanced Mathematics（ 高等数学A2 ), USST.\\
-   Textbook:  高等数学下册--同济第六版.
-      
-* Fall 2021.   
-    Algebraic Combinatorics (代数组合), USST. \\
-    Textbook:  [Algebraic Combinatorics](https://www.degruyter.com/document/doi/10.1515/9783110630251/html).
-    Eiichi Bannai, Etsuko Bannai, Ito Tatsuro and Rie Tanaka.
-  
-* Fall 2021.   Advanced Mathematics （ 高等数学A2 ), USST.\\
-  Textbook:  高等数学下册--同济第六版.
-  
-* Spring 2021.   Advanced Mathematics （ 高等数学A2 ), USST.\\
-  Textbook:  高等数学下册--同济第六版.
