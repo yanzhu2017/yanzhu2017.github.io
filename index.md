@@ -6,7 +6,7 @@ permalink: /
 
 # 朱 艳 Yan Zhu
 
-* 2023.6: Associate Professor at University of Shanghai for Science and Technology.
+* 2023.6: Associate Professor at [University of Shanghai for Science and Technology](https://www.usst.edu.cn/main.htm).
 
 * 2019.10-2023.5: Lecturer at University of Shanghai for Science and Technology.
 
@@ -16,7 +16,6 @@ permalink: /
 Thesis: "Relative $$t$$-designs in some association schemes"\\
 Advisor: Eiichi Bannai.
 
-[简历](data/cv20160430.pdf)
 
 ## Contact
 
