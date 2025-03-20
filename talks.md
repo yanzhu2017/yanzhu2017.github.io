@@ -16,6 +16,8 @@ permalink: /talks
 
 * Oct. 29, 2016. Relative $$t$$-designs in binary Hamming association schemes, [International Workshop on Algebraic Combinatorics](http://math.ahu.edu.cn/iwac2016/index.asp), Anhui University.
 
+*  May 25, 2016. Relative $$t$$-designs in binary Hamming association schemes, [JCCA 2016](https://infoshako.sk.tsukuba.ac.jp/jcca/JCCA16/index.html), Kyoto University.
+
 * Mar. 8, 2016. Relative $$t$$-designs in P- and Q-polynomial association schemes, Mini-workshop on Algebraic Combinatorics at Tohoku University, Tohoku University.
 
 * Sep. 19, 2015. Tight relative $$t$$-designs in some Q-polynomial association schemes, International Workshop on Algebraic Combinatorics at ZJU, Zhejiang University.
