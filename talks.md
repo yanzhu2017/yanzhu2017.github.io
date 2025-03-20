@@ -4,6 +4,8 @@ title: Talks
 permalink: /talks
 ---
 
+* Aug. 16, 2019. Relative $$t$$-designs in Johnson association schemes for P-polynomial structure, [Groups and Graphs, Designs and Dynamics](https://math.sjtu.edu.cn/conference/G2D2/), Three Gorges Mathematical Research Center.
+  
 * Nov. 7, 2018. Complex spherical $$s$$-distance $$T$$-designs, [2018 International Workshop on Quantum Information, Quantum Computing and Quantum Control](http://yanzhu.org/IWQIQC2018/), Shanghai University. 
 
 * May 24, 2017. $$t$$-designs in one shell of Johnson association schemes, [The Ninth Shanghai Conference on Combinatorics](http://www.math.sjtu.edu.cn/conference/9shcc/), Shanghai Jiao Tong University. 
